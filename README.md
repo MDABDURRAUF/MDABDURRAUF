@@ -2,7 +2,7 @@
 
 I build open-source analytics tools for supply chain planning and risk, with a focus on businesses operating in the United States.
 
-ORCID: [0000-0002-5105-9892](https://orcid.org/0000-0002-5105-9892)
+Website: [mdabdurrauf.github.io](https://mdabdurrauf.github.io) · ORCID: [0000-0002-5105-9892](https://orcid.org/0000-0002-5105-9892)
 
 ## SupplyLens
 
